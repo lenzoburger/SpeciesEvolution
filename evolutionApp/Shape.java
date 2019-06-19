@@ -20,7 +20,7 @@ public class Shape
     * */
   public Shape(int x, int y, int type)
   {
-    this.height = 20;
+    this.height = 40;
     this.width = height;
     this.x = x;
     this.y = y;

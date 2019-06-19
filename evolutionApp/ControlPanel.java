@@ -42,7 +42,7 @@ public class ControlPanel extends JPanel
   public ControlPanel()
   {
     getImages();
-    squareSize = 20;
+    squareSize = 40;
     init = new JButton("Initialize");
     step = new JButton("Step Forward");
     stepMult = new JButton("5 Steps Forward");

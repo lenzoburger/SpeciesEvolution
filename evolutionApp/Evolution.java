@@ -8,7 +8,7 @@ import java.util.*;
 public class Evolution{
   
   public static final int hood_size = 3; //Distance a creature can sense objects in.
-  public static final int grid_size = 45;  //Size of the world. 1/5th of tiles will contain food, 1/10th mushrooms.
+  public static final int grid_size = 25;  //Size of the world. 1/5th of tiles will contain food, 1/10th mushrooms.
   public static final int creature_count = 75; //Number of creatures in the simulation, monster cound will be half this.
   public static final int mushroom_count = grid_size;
   public static final int strawberry_count = grid_size * 8;

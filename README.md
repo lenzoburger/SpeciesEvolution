@@ -18,7 +18,7 @@ When a generation ends (Triggered when the population drops below a certain thre
 
 
 ### Clone & Run
-1. Clone repo: `https://github.com/lenzoburger/SpeciesEvolution.git`
+1. Clone repo: `gti clone https://github.com/lenzoburger/SpeciesEvolution.git`
 2. Launch Terminal/CMD
 3. Change working directory `cd evolutionApp`
 4. Compile `javac -d . *.java`
